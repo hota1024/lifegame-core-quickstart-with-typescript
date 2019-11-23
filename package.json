@@ -1,0 +1,10 @@
+{
+  "name": "lifegame-core-quickstart-with-typescript",
+  "version": "0.0.0",
+  "author": "hota1024",
+  "license": "MIT",
+  "dependencies": {
+    "@types/node": "^12.12.11",
+    "lifegame-core": "^0.0.6"
+  }
+}
